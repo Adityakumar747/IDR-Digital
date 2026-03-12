@@ -1,0 +1,40 @@
+<svg width="1400" height="320" viewBox="0 0 1400 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="320" rx="32" fill="#000000" />
+  <g transform="translate(48 40)">
+    <polygon points="100,0 176,42 100,84 24,42" fill="#FF6B35" />
+    <polygon points="24,42 100,84 100,168 24,126" fill="#CC5228" />
+    <polygon points="176,42 100,84 100,168 176,126" fill="#FF8C5A" />
+    <polyline
+      points="100,0 176,42 100,84 24,42 100,0"
+      stroke="#FFFFFF"
+      stroke-width="3"
+      fill="none"
+      stroke-opacity="0.25"
+    />
+    <line x1="100" y1="84" x2="100" y2="168" stroke="#FFFFFF" stroke-width="3" stroke-opacity="0.25" />
+  </g>
+  <text x="280" y="120" fill="#FFFFFF" font-family="Manrope, Segoe UI, Arial, sans-serif" font-size="56" font-weight="800">
+    Institute of Digital Risk
+  </text>
+  <text
+    x="282"
+    y="175"
+    fill="#FF6B35"
+    font-family="Manrope, Segoe UI, Arial, sans-serif"
+    font-size="30"
+    font-weight="800"
+    letter-spacing="10"
+  >
+    IDR
+  </text>
+  <text
+    x="282"
+    y="232"
+    fill="#8F949C"
+    font-family="Manrope, Segoe UI, Arial, sans-serif"
+    font-size="24"
+    font-weight="600"
+  >
+    Training, Innovation, and Advisory in Digital Risk
+  </text>
+</svg>

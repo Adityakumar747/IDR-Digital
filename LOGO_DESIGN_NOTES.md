@@ -1,0 +1,3 @@
+# IDR Logo Design Notes
+
+The IDR logo uses a cube-inspired geometric form to represent structure, layered risk, and resilience within complex digital environments. The orange accent conveys innovation, energy, and forward momentum, while the black and white palette ensures clarity, professionalism, and strong visual contrast across digital platforms. The clean, modern typography reinforces credibility and reflects the institute’s connection to both academic research and industry practice. The symbol is designed to remain clear at small sizes, making it suitable for applications such as favicons, mobile headers, and other compact digital interfaces.
