@@ -102,20 +102,19 @@ The IDR logo is based on a **cube-inspired geometric concept**, representing:
 ---
 
 ## 📂 Project Structure
+
+```bash
 IDR-Digital/
-│
 ├── index.html
 ├── style.css
 ├── script.js
-│
 ├── assets/
-│ └── logo.png
-│
+│   └── logo.png
 ├── screenshots/
-│ ├── homepage.png
-│ └── section.png
-│
+│   ├── homepage.png
+│   └── section.png
 └── README.md
+```
 
 ---
 
