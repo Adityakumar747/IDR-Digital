@@ -111,7 +111,7 @@ The logo is optimized for:
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](./screenshots/homepage.png) 
 
 
 ---
