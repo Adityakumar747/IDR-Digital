@@ -1,61 +1,124 @@
-# Institute of Digital Risk (IDR) – Homepage Design Assignment
+# Institute of Digital Risk (IDR) – Website
 
-This project is a responsive homepage and brand concept created for the **Institute of Digital Risk (IDR)**.  
-The assignment focuses on designing a simple brand identity and building a modern, accessible landing page using **vanilla HTML, CSS, and JavaScript**.
-
-The goal of the website is to clearly communicate the institute’s mission of training and deploying professionals in **digital, cyber, and AI risk management**.
+A modern, responsive website designed for the **Institute of Digital Risk (IDR)**.  
+This project focuses on building a strong brand identity and a clean digital experience that communicates the institute’s vision of advancing professionals in **digital, cyber, and AI risk management**.
 
 ---
 
-## Logo Design
+## 🚀 Live Demo
 
-The IDR logo uses a **cube-inspired geometric mark** to represent **structure, layered risk, and resilience in complex digital environments**.
-
-- **Orange** was selected as the accent color to represent **innovation, energy, and forward momentum**.
-- **Black and white** maintain a **clean, professional, high-contrast visual identity** suitable for digital platforms.
-- The typography is **modern and minimal**, ensuring credibility across both **academic and industry audiences**.
-- The logo is designed to remain clear at **small sizes**, making it suitable for **favicons, mobile headers, and compact brand applications**.
-
-Two logo variants were created:
-
-1. **Icon-only version**
-2. **Icon with full institute name**
+👉 https://adityakumar747.github.io/IDR-Digital/
 
 ---
 
-## Homepage Features
+## 🚀 Overview
 
-The homepage is designed as a **single-page responsive website** that explains the purpose and model of IDR.
-
-### Sections Included
-
-- **Hero Section**
-  - Headline: *Advancing the Future of Digital Risk*
-  - Subheading explaining IDR’s mission
-  - Call-to-action buttons
-
-- **About IDR**
-  - Overview of the institute
-  - Explanation of academic collaboration and industry integration
-
-- **Service Pillars / Model**
-  - **Academy** – training programs and bootcamps for students and professionals  
-  - **Innovation & Incubation** – development of new digital risk models and AI governance frameworks  
-  - **Advisory Services** – supporting organisations in implementing frameworks such as **NIST**, **ISO 27001**, and **NIS2**
-
-- **Community**
-  - Focus on students, early-career professionals, and practitioners seeking upskilling in digital and cyber risk.
-
-- **Contact / Register Interest**
-  - Simple form allowing users to submit their interest.
+This website delivers a professional and accessible platform to showcase IDR’s mission, services, and ecosystem. It combines structured content, modern UI design, and responsive layout techniques to ensure a seamless user experience across devices.
 
 ---
 
-## Technical Implementation
+## 🎯 Project Highlights
 
-The project was built using **semantic HTML5 and modern CSS layout techniques**.
+- Designed a clean and professional corporate UI  
+- Built a fully responsive layout for all screen sizes  
+- Implemented smooth scrolling and interactive elements  
+- Created a scalable brand identity and logo system  
+- Focused on accessibility and readability  
 
-### Technologies Used
+---
+
+## 🎨 Brand & Logo Design
+
+The IDR logo is based on a **cube-inspired geometric concept**, representing:
+
+- Structured systems  
+- Layered digital risk  
+- Stability in complex environments  
+
+### Design Elements
+
+- **Orange Accent** – Innovation, energy, forward momentum  
+- **Black & White Base** – Clean, professional, high contrast  
+- **Modern Typography** – Minimal and credible  
+
+### Logo Variants
+
+- Icon-only version  
+- Icon with full institute name  
+
+The logo is optimized for:
+- Favicons  
+- Mobile headers  
+- Scalable digital use  
+
+---
+
+## ✨ Features
+
+- Modern and responsive UI/UX  
+- Sticky navigation bar  
+- Smooth scrolling navigation  
+- Accessible color contrast  
+- Interactive hover states  
+- Animated hero section background  
+- Clean and structured layout  
+
+---
+
+## 🧩 Website Sections
+
+### 🏠 Hero Section
+- Headline: *Advancing the Future of Digital Risk*  
+- Clear value proposition  
+- Call-to-action buttons  
+
+---
+
+### ℹ️ About IDR
+- Overview of the institute  
+- Academic and industry collaboration  
+
+---
+
+### 🏢 Core Pillars
+
+- **Academy**  
+  Training programs and bootcamps  
+
+- **Innovation & Incubation**  
+  AI governance and digital risk models  
+
+- **Advisory Services**  
+  Framework implementation including:
+  - NIST  
+  - ISO 27001  
+  - NIS2  
+
+---
+
+### 🌐 Community
+- Students and early-career professionals  
+- Upskilling in cyber and digital risk  
+
+---
+
+### 📩 Contact / Registration
+- Simple form to capture user interest  
+- Clean and intuitive UI  
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.png)
+
+### 📅 Section View
+![Section](./screenshots/section.png)
+
+---
+
+## 🛠 Tech Stack
 
 - HTML5  
 - CSS3  
@@ -63,36 +126,69 @@ The project was built using **semantic HTML5 and modern CSS layout techniques**.
 - Flexbox  
 - Google Fonts  
 
-### Key Features
-
-- Responsive design for **desktop and mobile**
-- **Sticky navigation bar**
-- Smooth scrolling between sections
-- Clean and accessible color contrast
-- Hover states for buttons and navigation
-- Animated grid-style background in the hero section
-
 ---
 
-## Project Structure
+## 📂 Project Structure
 
-```
-idr-assignment
-│
+idr-website/
 ├── index.html
 ├── style.css
 ├── script.js
-│
-├── assets
+├── assets/
 │   └── logo.png
-│
+├── screenshots/
+│   ├── homepage.png
+│   └── section.png
 └── README.md
-```
 
-# Author
+---
+
+## ⚙️ Setup & Usage
+
+1. Clone the repository
+
+git clone https://github.com/your-username/idr-website.git  
+cd idr-website  
+
+2. Open `index.html` in your browser
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+- Fork the repository  
+- Create a new branch (feature/your-feature)  
+- Commit your changes  
+- Open a Pull Request  
+
+---
+
+## 🐞 Feedback & Improvements
+
+If you find any issues or have suggestions:
+
+- Open an issue  
+- Provide clear details and steps to reproduce  
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
+
+---
+
+## 👨‍💻 Author
 
 Aditya Kumar  
 Frontend Developer | Web Development Enthusiast  
 
-GitHub:  
-https://github.com/Adityakumar747
+GitHub: https://github.com/Adityakumar747
